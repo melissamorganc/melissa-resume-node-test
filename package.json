@@ -8,9 +8,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "bin": {
+    "your-command-here": "./index.js"
+  }
 }
-
-"bin": {
-  "your-command-here": "./index.js"
-},
